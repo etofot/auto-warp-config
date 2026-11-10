@@ -1,6 +1,6 @@
 # Auto WARP Config Generator 🔄
 
-[![Update Configs](https://github.com/4n0nymou3/auto-warp-config/actions/workflows/update-configs.yml/badge.svg)](https://github.com/4n0nymou3/auto-warp-config/actions/workflows/update-configs.yml)
+[![Update Configs](https://github.com/etofot/auto-warp-config/actions/workflows/update-configs.yml/badge.svg)](https://github.com/etofot/auto-warp-config/actions/workflows/update-configs.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Automated WARP configuration generator that updates IPv4 and IPv6 endpoints hourly. This project automatically fetches and rotates IP addresses and ports to maintain fresh and working configurations.
@@ -90,4 +90,4 @@ Special thanks to:
 - All contributors and users who help improve this project
 
 ---
-Made with ❤️ by [4n0nymou3](https://github.com/4n0nymou3)
+Made with ❤️ by [etofot](https://github.com/etofot)
