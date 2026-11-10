@@ -1,5 +1,4 @@
-//profile-title: base64:8J+RvUFub255bW91cy1XQVJQLVBybw==
+//profile-title: base64:8J+boe+4jyBldG9mb3QtV0FSUC1BdXRv
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
+//profile-web-page-url: https://github.com/etofot/auto-warp-config
